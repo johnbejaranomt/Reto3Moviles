@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/drawable-v24/outline_store_mall_directory_24.xml" value="0.2935185185185185" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.2935185185185185" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/layout/activity_form.xml" value="0.1641337386018237" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/layout/activity_main.xml" value="0.1641337386018237" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/layout/activity_splash.xml" value="0.1641337386018237" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/layout/app_bar_main.xml" value="0.1641337386018237" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/layout/content_main.xml" value="0.1641337386018237" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/layout/fragment_home.xml" value="0.1641337386018237" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/layout/fragment_productos.xml" value="0.1" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/layout/fragment_servicios.xml" value="0.1641337386018237" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/layout/fragment_sucursales.xml" value="0.1641337386018237" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/layout/grid_item.xml" value="0.1641337386018237" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/menu/activity_main_drawer.xml" value="0.3323076923076923" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/menu/main.xml" value="0.2953703703703704" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2935185185185185" />
+        <entry key="..\:/USA MINTIC 2021/Ciclo 4 UsaMinTic/Moviles/semana 3/Reto3Festecol/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2935185185185185" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
